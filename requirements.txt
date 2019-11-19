@@ -1,0 +1,9 @@
+geopandas
+jupiter
+matplotlib
+descartes
+gdal
+jupyter_contrib_nbextensions
+google-cloud-bigquery
+mplleaflet
+plotly
